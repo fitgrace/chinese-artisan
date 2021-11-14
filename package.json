@@ -1,0 +1,20 @@
+{
+  "name": "chinese-artisan",
+  "version": "1.0.0",
+  "description": "这是一个对汉语进行归纳整理的工匠铺。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fitgrace@github.com/fitgrace/chinese-artisan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitgrace/chinese-artisan/issues"
+  },
+  "homepage": "https://github.com/fitgrace/chinese-artisan#readme"
+}
